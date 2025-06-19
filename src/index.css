@@ -1,0 +1,34 @@
+/* index.css */
+
+:root {
+  --primary-color: #1A4B6D;
+  --secondary-color: #FF8C42;
+  --accent-color: #6CC4A1;
+  --text-color: #333;
+  --bg-light: #f8f8f8;
+
+  --font-heading: 'Montserrat', sans-serif;
+  --font-body: 'Lato', sans-serif;
+}
+/* index.css */
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  color: var(--text-color);
+  background-color: var(--bg-light);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  margin: 0;
+}
