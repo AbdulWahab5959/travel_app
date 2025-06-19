@@ -17,5 +17,23 @@ export const destinations = [
     image: "src/assets/images/peru.png",
     title: "Machu Picchu, Peru",
     description: "Explore ancient ruins in the heart of the Andes."
+  },
+  {
+    id: 4,
+    image: "src/assets/images/image-2.jpg",
+    title: "Santorini, Greece",
+    description: "Famous for its stunning sunsets and whitewashed houses."
+  },
+  {
+    id: 5,
+    image: "src/assets/images/image-1.jpg",
+    title: "Kyoto, Japan",
+    description: "Experience ancient temples and beautiful cherry blossoms."
+  },
+  {
+    id: 6,
+    image: "src/assets/images/image-3.jpg",
+    title: "Hunza, Pakistan",
+    description: "A stunning mountainous region known for its breathtaking landscapes."
   }
 ];

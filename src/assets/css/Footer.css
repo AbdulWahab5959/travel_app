@@ -1,0 +1,15 @@
+.footer {
+  font-family: 'Lato', sans-serif;
+  background-color: #1a1a1a;
+}
+
+.footer h5,
+.footer h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+  color: #ff8c42;
+  transition: all 0.2s ease-in-out;
+}
