@@ -21,9 +21,35 @@
   border-radius: 25px;
   font-weight: 500;
   transition: all 0.3s ease;
+  width: auto;
 }
 
 .btn-primary:hover {
   background-color: #163e56;
   transform: translateY(-1px);
+}
+.contact-wrapper {
+  background: #f5f8fa;
+}
+
+.section-title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #1a4b6d;
+}
+
+.shadow-sm {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.06);
+}
+
+select.form-select,
+input.form-control,
+textarea.form-control {
+  font-size: 0.95rem;
+  padding: 12px;
+}
+.form-control {
+  border-radius: 8px;
+  border: 1px solid #ced4da;
 }
